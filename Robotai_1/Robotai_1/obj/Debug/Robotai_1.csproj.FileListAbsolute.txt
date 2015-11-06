@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\Robotai_1\Robotai_1\bin\Debug\Robotai_1.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Robotai_1\Robotai_1\bin\Debug\Robotai_1.exe
+c:\users\admin\documents\visual studio 2013\Projects\Robotai_1\Robotai_1\bin\Debug\Robotai_1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Robotai_1\Robotai_1\obj\Debug\Robotai_1.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Robotai_1\Robotai_1\obj\Debug\Robotai_1.exe
+c:\users\admin\documents\visual studio 2013\Projects\Robotai_1\Robotai_1\obj\Debug\Robotai_1.pdb
